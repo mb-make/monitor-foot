@@ -1,0 +1,10 @@
+
+# Temporary
+.*.tmp
+*.scad.??????
+
+# Generated
+*.png
+*.stl
+
+
