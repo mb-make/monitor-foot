@@ -33,6 +33,7 @@ foot_anglecap_height = angle_thickness + foot_anglecap_thickness;
 foot_anglecap_length = spacer_thickness/2 + angle_lengthx + foot_anglecap_thickness;
 foot_bottom_width = 80;
 foot_bottom_length = foot_anglecap_thickness + angle_lengthx + spacer_thickness/2;
+foot_height = foot_bottom_height + foot_anglecap_height;
 
 // Where to insert the angle into the foot
 insertion_hole_width = angle_width + 0.5;
